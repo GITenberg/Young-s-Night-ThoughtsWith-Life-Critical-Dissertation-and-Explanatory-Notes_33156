@@ -1,0 +1,38 @@
+_repo: Young-s-Night-ThoughtsWith-Life-Critical-Dissertation-and-Explanatory-Notes_33156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Edward
+    alias: Young, E. (Edward)
+    birthdate: 1683
+    deathdate: 1765
+    gutenberg_agent_id: '8278'
+    url: http://www.gutenberg.org/2009/agents/8278
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Young
+  editor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+description: ''
+gutenberg_issued: '2010-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic poetry, English'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: 'Young''s Night Thoughts
+
+  With Life, Critical Dissertation and Explanatory Notes'
+url: http://www.gutenberg.org/ebooks/33156
