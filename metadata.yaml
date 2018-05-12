@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3126
     wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33156#Young-s-Night-ThoughtsWith-Life-Critical-Dissertation-and-Explanatory-Notes
 gutenberg_issued: '2010-07-14'
 gutenberg_type: Text
 identifiers:
